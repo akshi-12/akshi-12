@@ -1,1 +1,1 @@
-Hi i'm Akshi
+Hi i'm Akshi, I'm just figuring out Git!
